@@ -147,8 +147,12 @@ section .Complexity_Containers .Pair_Definitions p {
   display: inline;
 }
 
+h3{
+  font-size: 70%;
+}
+
 section .Complexity_Containers .Pair_Definitions p.Sub_Heading {
-  font-size: medium;
+  font-size: small;
   text-transform: none;
 }
 
