@@ -63,7 +63,7 @@ nav .header_right {
 
 nav .header_right .nav-heading {
   display: inline-block;
-  font-size: 100%;
+  font-size: 150%;
   padding: 3% 0%;
 }
 
@@ -148,7 +148,7 @@ section .Complexity_Containers .Pair_Definitions p {
 }
 
 h3{
-  font-size: 70%;
+  font-size: 50%;
 }
 
 section .Complexity_Containers .Pair_Definitions p.Sub_Heading {
