@@ -44,6 +44,7 @@ nav .array-inputs #a_generate {
   color: white;
   padding: 4% 0% 0% 0%;
   padding-left: 20%;
+  font-size:70%;
 }
 
 nav .array-inputs #a_generate:hover {
@@ -75,6 +76,9 @@ nav .header_right .algos {
   padding: 2% 0%;
 }
 
+label {
+  font-size: 60%;
+}
 /*
 nav .header_right .algos {
   display: -ms-grid;
